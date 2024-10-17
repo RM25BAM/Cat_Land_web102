@@ -98,7 +98,7 @@ function App() {
   return (
     <>
       <div className="center-page">
-        <h1>World of Cats!</h1>
+        <h1>CAT LAND!</h1>
         <h3>Take a look at these beautiful cats!</h3>
         <br></br>
         <br></br>
