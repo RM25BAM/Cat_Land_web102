@@ -9,7 +9,7 @@ function App() {
   const fetchData = async () => {
     try {
       const response = await fetch(
-        "https://api.thecatapi.com/v1/breeds?api_key=live_wQmCscUhr1yHW0I9X1ovKXfXnEfKYDoKkm6GcvD1ar3TZJZZqXHg4wk1VPH8N8VH",
+        "https://api.thecatapi.com/v1/breeds?api_key=${ACCESS_KEY}",
         {
           headers: {
             "x-api-key": API_KEY,
