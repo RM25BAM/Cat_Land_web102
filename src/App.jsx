@@ -100,6 +100,7 @@ function App() {
       <div className="center-page">
         <h1>CAT LAND!</h1>
         <h3>Take a look at these beautiful cats!</h3>
+        <h3>So cute!</h3>
         <br></br>
         <br></br>
         <div className="discover-container">
